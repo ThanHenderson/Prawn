@@ -1,6 +1,6 @@
 # prawn
 
-Rust game based on the Pong tutorial in the Amethyst Game Engine book (https://book.amethyst.rs/).
+Rust game based on the Pong tutorial in the Amethyst Game Engine book (https://book.amethyst.rs/). Exactly like Pong except the paddles are prawns and the ball is a pearl. I did this small project to help my understanding of how Rust works and try out Amethyst. I am still making small improvements and will be adding a pause state, a loading screen and whatnot. 
 
 ## How to run
 
@@ -17,12 +17,3 @@ cargo run --features "metal"
 ```
 
 on macOS.
-
-For building without any graphics backend, you can use
-
-```
-cargo run --features "empty"
-```
-
-but be aware that as soon as you need any rendering you won't be able to run your game when using
-the `empty` feature.
