@@ -1,4 +1,3 @@
-#![allow(warnings)]
 use crate::prawn::Ball;
 use amethyst::{
     core::timing::Time,

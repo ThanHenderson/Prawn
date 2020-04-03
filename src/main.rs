@@ -1,4 +1,3 @@
-#![allow(warnings)]
 use amethyst::{
     core::transform::TransformBundle,
     input::{InputBundle, StringBindings},

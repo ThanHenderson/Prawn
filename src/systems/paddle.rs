@@ -1,4 +1,3 @@
-#![allow(warnings)]
 use amethyst::{
     core::transform::Transform,
     core::SystemDesc,

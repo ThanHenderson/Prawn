@@ -1,4 +1,3 @@
-#![allow(warnings)]
 use amethyst::{
     assets::{AssetStorage, Handle, Loader},
     core::alga::general::SubsetOf,
