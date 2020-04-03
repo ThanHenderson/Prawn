@@ -1,0 +1,4 @@
+(
+  title: "Prawn!",
+  dimensions: Some((750, 750)),
+)
