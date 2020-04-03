@@ -1,5 +1,7 @@
 # prawn
 
+Rust game based on the Pong tutorial in the Amethyst Game Engine book (https://book.amethyst.rs/).
+
 ## How to run
 
 To run the game, use
