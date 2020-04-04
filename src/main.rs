@@ -1,3 +1,4 @@
+#![allow(unused_variables)]
 use amethyst::{
     core::transform::TransformBundle,
     input::{InputBundle, StringBindings},

@@ -1,7 +1,7 @@
+#![allow(unused_variables)]
 use amethyst::{
-    core::{SystemDesc, Transform},
-    derive::SystemDesc,
-    ecs::prelude::{Join, ReadStorage, System, SystemData, World, WriteStorage},
+    core::Transform,
+    ecs::prelude::{Join, ReadStorage, System, SystemData, WriteStorage},
 };
 
 use crate::prawn::{Ball, Paddle, Side, ARENA_HEIGHT};

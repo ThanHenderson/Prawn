@@ -1,10 +1,6 @@
 use amethyst::{
     assets::{AssetStorage, Handle, Loader},
-    core::alga::general::SubsetOf,
-    core::math::{
-        self as na, Isometry3, Matrix4, Quaternion, RealField, Translation3, Unit, UnitQuaternion,
-        Vector3,
-    },
+    core::math::Vector3,
     core::timing::Time,
     core::transform::Transform,
     ecs::prelude::{Component, DenseVecStorage, Entity},
