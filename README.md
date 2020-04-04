@@ -1,7 +1,9 @@
 # prawn
 
 Rust game based on the Pong tutorial in the Amethyst Game Engine book (https://book.amethyst.rs/). Exactly like Pong except the paddles are prawns and the ball is a pearl. I did this small project to help my understanding of how Rust works and try out Amethyst. I am still making small improvements and will be adding a pause state, a loading screen and whatnot. 
-<img src="Example_Gameplay.png" width="400" align="middle">
+<p align="center">
+    <img src="Example_Gameplay.png" width="400">
+</p>
 
 ## How to run
 
